@@ -1,0 +1,42 @@
+body {
+  background-color: #ADD8E6;
+   margin: 0;
+  font-family: Arial;
+  font-size: 20px;
+}
+
+.topnav {
+  overflow: hidden;
+  background-color: #42B4E6;
+}
+
+.topnav a {
+  float: left;
+  color: #333F63;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.topnav a:hover {
+  background-color: #87CEEB;
+  color: black;
+}
+
+.topnav a.active {
+  background-color: #000080;
+  color: white;
+  width: 7%;
+}
+
+table {font-family: arial; border-collapse: collapse; width: 90%;}
+
+td, th {border: 2px solid #dddddd; text-align: center; padding: 20px;}
+
+footer {
+  text-align: center;
+  padding: 1px;
+  background-color: #1560BD;
+  color: white;
+}
